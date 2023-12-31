@@ -1,2 +1,1 @@
-# cookingkicker.github.io
-yay git
+yes
